@@ -1,5 +1,4 @@
-## Hi there 👋
-八奈見可愛い
+## 八奈見可愛い
 <!--
 **Gia727/Gia727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
